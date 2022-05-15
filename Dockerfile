@@ -7,3 +7,4 @@ RUN apk update && \
     apk add --no-cache git gcc musl-dev
 
 EXPOSE 2300
+EXPOSE 6060

@@ -9,3 +9,4 @@ services:
     working_dir: /go/src/work
     ports:
       - "2300:2300"
+      - "6060:6060"
