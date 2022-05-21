@@ -1,8 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/Hirochon/go-for-everyone/try_strings"
 
 func main() {
-	// aaa
-	fmt.Println("Hello World!")
+	try_strings.TryStrings()
 }
